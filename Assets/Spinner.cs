@@ -22,7 +22,7 @@ public class Spinner : MonoBehaviour
     public void OnStartLogin()
     {
         //Moved the Init and StartLogin calls to a button press.
-        MirrorSDK.InitSDK("mw_i5icAfiPIST6Nbz0b2wAbJbGBNZelCU9F4d", m_MirrorObject, MirrorworldSDK.MirrorChain.Solana, false, MirrorworldSDK.MirrorEnv.Devnet);
+//        MirrorSDK.InitSDK("mw_i5icAfiPIST6Nbz0b2wAbJbGBNZelCU9F4d", m_MirrorObject, MirrorworldSDK.MirrorChain.Solana, false, MirrorworldSDK.MirrorEnv.Devnet);
         MirrorSDK.StartLogin(LoginHandler);
     }
 
