@@ -146,7 +146,6 @@ Library: lib_burst_generated
 --root-assembly=C:\development\Unity\Jagadaw\MirrorWorld\MirrorWorldTest\Temp\MirrorWorldTest\MirrorWorldTest\Temp\StagingArea\Data\Managed\Unity.VisualScripting.Flow.dll
 --root-assembly=C:\development\Unity\Jagadaw\MirrorWorld\MirrorWorldTest\Temp\MirrorWorldTest\MirrorWorldTest\Temp\StagingArea\Data\Managed\Unity.Mathematics.dll
 --root-assembly=C:\development\Unity\Jagadaw\MirrorWorld\MirrorWorldTest\Temp\MirrorWorldTest\MirrorWorldTest\Temp\StagingArea\Data\Managed\Unity.Services.Core.Telemetry.dll
---root-assembly=C:\development\Unity\Jagadaw\MirrorWorld\MirrorWorldTest\Temp\MirrorWorldTest\MirrorWorldTest\Temp\StagingArea\Data\Managed\MirrorworldSDK.dll
 --root-assembly=C:\development\Unity\Jagadaw\MirrorWorld\MirrorWorldTest\Temp\MirrorWorldTest\MirrorWorldTest\Temp\StagingArea\Data\Managed\Unity.VisualScripting.State.dll
 --root-assembly=C:\development\Unity\Jagadaw\MirrorWorld\MirrorWorldTest\Temp\MirrorWorldTest\MirrorWorldTest\Temp\StagingArea\Data\Managed\Unity.VisualScripting.Core.dll
 --root-assembly=C:\development\Unity\Jagadaw\MirrorWorld\MirrorWorldTest\Temp\MirrorWorldTest\MirrorWorldTest\Temp\StagingArea\Data\Managed\Unity.RenderPipelines.Universal.Runtime.dll
@@ -169,6 +168,8 @@ Library: lib_burst_generated
 --root-assembly=C:\development\Unity\Jagadaw\MirrorWorld\MirrorWorldTest\Temp\MirrorWorldTest\MirrorWorldTest\Temp\StagingArea\Data\Managed\Unity.Services.Core.Configuration.dll
 --root-assembly=C:\development\Unity\Jagadaw\MirrorWorld\MirrorWorldTest\Temp\MirrorWorldTest\MirrorWorldTest\Temp\StagingArea\Data\Managed\Unity.RenderPipelines.Universal.Shaders.dll
 --root-assembly=C:\development\Unity\Jagadaw\MirrorWorld\MirrorWorldTest\Temp\MirrorWorldTest\MirrorWorldTest\Temp\StagingArea\Data\Managed\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+--root-assembly=C:\development\Unity\Jagadaw\MirrorWorld\MirrorWorldTest\Temp\MirrorWorldTest\MirrorWorldTest\Temp\StagingArea\Data\Managed\Assembly-CSharp-firstpass.dll
+--root-assembly=C:\development\Unity\Jagadaw\MirrorWorld\MirrorWorldTest\Temp\MirrorWorldTest\MirrorWorldTest\Temp\StagingArea\Data\Managed\MirrorworldSDK.dll
 --assembly-folder=C:\development\Unity\Jagadaw\MirrorWorld\MirrorWorldTest\Temp\MirrorWorldTest\MirrorWorldTest\Temp\StagingArea\Data\Managed\
 --pdb-search-paths=Temp/ManagedSymbols/
 --method=Unity.Jobs.IJobForExtensions+ForJobStruct`1[[UnityEngine.Rendering.Universal.SliceCullingJob, Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(UnityEngine.Rendering.Universal.SliceCullingJob&, Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)--1998da082e6413092f0e7bcd5a0e9331

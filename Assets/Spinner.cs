@@ -11,18 +11,14 @@ public class Spinner : MonoBehaviour
 
     private void Start()
     {
-        //This is how it was initially.
-//        MirrorSDK.InitSDK("mw_i5icAfiPIST6Nbz0b2wAbJbGBNZelCU9F4d", m_MirrorObject, MirrorworldSDK.MirrorChain.Solana, false, MirrorworldSDK.MirrorEnv.Devnet);
-//        MirrorSDK.StartLogin(LoginHandler);
-
-        //Tried moving the StartLogin an press, leaving the Init in the start function
-//        MirrorSDK.InitSDK("mw_i5icAfiPIST6Nbz0b2wAbJbGBNZelCU9F4d", m_MirrorObject, MirrorworldSDK.MirrorChain.Solana, false, MirrorworldSDK.MirrorEnv.Devnet);
+        Debug.Log($"[LOGINHANDLER] MONO Start?");
     }
 
     public void OnStartLogin()
     {
         //Moved the Init and StartLogin calls to a button press.
 //        MirrorSDK.InitSDK("mw_i5icAfiPIST6Nbz0b2wAbJbGBNZelCU9F4d", m_MirrorObject, MirrorworldSDK.MirrorChain.Solana, false, MirrorworldSDK.MirrorEnv.Devnet);
+        Debug.Log($"[LOGINHANDLER] OnStartLogin?");
         MirrorSDK.StartLogin(LoginHandler);
     }
 
